@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SoundManager
+comment1.params=
+comment1.target=void\ playBGM()
+comment2.params=
+comment2.target=void\ stopBGM()
+comment3.params=
+comment3.target=void\ pauseBGM()
+numComments=4

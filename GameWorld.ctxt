@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GameWorld
+comment1.params=
+comment1.target=GameWorld()
+comment2.params=
+comment2.target=void\ prepare()
+comment3.params=nilai
+comment3.target=void\ tambahPoin(int)
+comment4.params=
+comment4.target=int\ getPoin()
+comment5.params=
+comment5.target=int\ getTargetPoin()
+numComments=6
